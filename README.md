@@ -1,8 +1,8 @@
 [README.md](https://github.com/user-attachments/files/28424652/README.md)
-<h1 align="center">Beginner Level Data Science Projects</h1>
+<h1 align="center">Data Science Projects</h1>
 
 <p align="center">
-  <img src="assets/data-science.png" alt="Project Overview" width="150">
+  <img src="C:\Users\Sorena Pardaz\Beginner-Data-Science-Projects\assets\data-science.png" alt="Project Overview" width="150">
 </p>
 
 <p align="center">
