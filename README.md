@@ -46,7 +46,6 @@ Get comfortable with pandas, sklearn, and basic ML workflows.
 | # | Project | What You'll Learn | Category |
 |---|---------|-------------------|----------|
 | 1 | [Titanic Survival Prediction](Titanic%20Survival%20Prediction) | EDA, data cleaning, feature engineering, 7 classifiers, GridSearchCV | Classification |
-| 2 | [Iris Flower Classification](Iris%20Flower%20Classification) | Image classification with CNNs, data loading | Classification |
 | 3 | [Customer Churn](Customer%20Churn) | Logistic regression from scratch, prediction on new data | Classification |
 | 4 | [Heart Failure Prediction](Heart%20Failure%20Prediction) | Feature analysis, multiple classifiers, model evaluation | Classification |
 | 5 | [Rental Prices of AirBnb](Rental%20Prices%20of%20AirBnb) | Linear regression, outlier analysis, label encoding | Regression |
@@ -71,7 +70,6 @@ Work with images, neural networks, and pre-trained models.
 | 10 | [Gender Classification](Gender%20Classification) | EfficientNetV2, transfer learning, Keras | Classification |
 | 11 | [Face Detection](Face%20Detection) | Haar cascades, MTCNN, OpenCV | Computer Vision |
 | 12 | [Face Recognition](Face%20Recognition) | LBPH algorithm, real-time webcam recognition | Computer Vision |
-| 13 | [Eye Disease Detection](Eye%20Disease%20Detection) | ResNet34, data augmentation pipeline, medical imaging | Computer Vision |
 | 14 | [Alzheimer Detection](Alzheimer%20Detection) | Clinical data analysis, Random Forest on medical data | Computer Vision |
 
 ### Level 4 -- Advanced Topics
