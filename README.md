@@ -1,8 +1,8 @@
 <h1 align="center">Data Science Projects</h1>
 
 <p align="center">
+    <img src="assets/data-science.png" alt="Project Overview" width="150">
 </p>
-  <img src="assets/data-science.png" alt="Project Overview" width="150">
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
   <a href="https://github.com/tkarim45/Beginner-Data-Science-Projects/stargazers"><img src="https://img.shields.io/github/stars/tkarim45/Beginner-Data-Science-Projects" alt="Stars"></a>
