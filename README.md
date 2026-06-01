@@ -26,7 +26,6 @@ You will struggle:
 - **Exploratory Data Analysis** -- visualizations and statistical insights
 - **Machine Learning** -- classification, regression, and anomaly detection
 - **Deep Learning** -- CNNs, transfer learning, and NLP models
-- **Computer Vision** -- detection, recognition, and pose estimation
 
 ## Learning Path
 
