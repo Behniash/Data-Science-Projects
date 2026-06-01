@@ -3,13 +3,6 @@
 <p align="center">
     <img src="assets/data-science.png" alt="Project Overview" width="150">
 </p>
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
-  <a href="https://github.com/tkarim45/Beginner-Data-Science-Projects/stargazers"><img src="https://img.shields.io/github/stars/tkarim45/Beginner-Data-Science-Projects" alt="Stars"></a>
-  <a href="https://github.com/tkarim45/Beginner-Data-Science-Projects/network/members"><img src="https://img.shields.io/github/forks/tkarim45/Beginner-Data-Science-Projects" alt="Forks"></a>
-  <a href="https://github.com/tkarim45/Beginner-Data-Science-Projects/issues"><img src="https://img.shields.io/github/issues/tkarim45/Beginner-Data-Science-Projects" alt="Issues"></a>
-  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
-</p>
 
 <p align="center">
   A curated collection of beginner-friendly data science projects with real datasets, clear explanations, and working code. Learn by building.
