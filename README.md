@@ -117,15 +117,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## Contributing
-
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) before submitting a PR.
-
-**Quick rules:**
-- One project per PR
-- Include a README, requirements.txt, and working notebook
-- Host large datasets externally (>10 MB)
-- Do not commit model binaries
 
 ## License
 
