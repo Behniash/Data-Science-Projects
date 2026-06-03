@@ -75,27 +75,6 @@ Tackle more complex real-world problems.
 | 17 | [Pose Estimation](Pose%20Estimation) | YOLOv8, MediaPipe, activity classification | Computer Vision |
 | 18 | [Robotics and Computer Integrated Manufacturing](Robotics%20and%20Computer%20Integrated%20Manufacturing) | MobileNetV2, transfer learning, industrial imaging | Robotics |
 
-## All Projects
-
-| # | Project | Category | Difficulty |
-|---|---------|----------|------------|
-| 1 | [Titanic Survival Prediction](Titanic%20Survival%20Prediction) | Classification | Beginner |
-| 3 | [Customer Churn](Customer%20Churn) | Classification | Beginner |
-| 4 | [Heart Failure Prediction](Heart%20Failure%20Prediction) | Classification | Beginner |
-| 5 | [Rental Prices of AirBnb](Rental%20Prices%20of%20AirBnb) | Regression | Beginner |
-| 6 | [Message Spam Filtering](Message%20Spam%20Filtering) | NLP | Beginner |
-| 7 | [Cyber-Bullying Prediction](Cyber-Bullying%20Prediction) | NLP | Beginner |
-| 8 | [Sentiment Analysis](Sentiment%20Analysis) | NLP | Intermediate |
-| 9 | [AirBnb Reviews Sentimental Analysis](AirBnb%20reviews%20Sentimental%20Analysis) | NLP | Intermediate |
-| 10 | [Gender Classification](Gender%20Classification) | Classification | Intermediate |
-| 11 | [Face Detection](Face%20Detection) | Computer Vision | Intermediate |
-| 12 | [Face Recognition](Face%20Recognition) | Computer Vision | Intermediate |
-| 14 | [Alzheimer Detection](Alzheimer%20Detection) | Computer Vision | Intermediate |
-| 15 | [Network Intrusion Detection System](Network%20Intrusion%20Detection%20System) | Anomaly Detection | Advanced |
-| 16 | [Object Detection](Object%20Detection) | Computer Vision | Advanced |
-| 17 | [Pose Estimation](Pose%20Estimation) | Computer Vision | Advanced |
-| 18 | [Robotics and Computer Integrated Manufacturing](Robotics%20and%20Computer%20Integrated%20Manufacturing) | Robotics | Advanced |
-
 ## Getting Started
 
 ### Prerequisites
