@@ -14,9 +14,7 @@
 
 - [Why This Repo?](#why-this-repo)
 - [Learning Path](#learning-path)
-- [All Projects](#all-projects)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Why This Repo?
