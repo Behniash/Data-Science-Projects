@@ -106,7 +106,7 @@ jupyter notebook
 ### Quick Start
 
 ```bash
-git clone https://github.com/tkarim45/Beginner-Data-Science-Projects.git
+git clone https://github.com/Behniash/Beginner-Data-Science-Projects.git
 cd Beginner-Data-Science-Projects
 
 # Pick a project and run it
